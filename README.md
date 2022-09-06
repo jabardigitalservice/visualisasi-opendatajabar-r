@@ -1,4 +1,4 @@
-# Viz_OpenDataJabar
+# Visualisasi Open Data Jabar (R programming)
 
 **Welcome!**
 This repositories will contain analysis and visualization of datasets obtained from [Open Data Jawa Barat](https://opendata.jabarprov.go.id/) platform. Mainly we will use R to visualize 'em. 
